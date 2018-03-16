@@ -1,2 +1,7 @@
 # Algorithm-Design
-Diseño de algoritmos
+
+* **Asignatura**: DISEÑO DE ALGORITMOS
+* **Curso**: TERCERO
+* E.S. DE INGENIERIA INFORMATICA ALBACETE
+* :es:
+-----
